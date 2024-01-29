@@ -1,0 +1,8 @@
+James Bond,200304,1000.33
+Mark Cuban,200331,200.88
+Lisa Jade,300223,100.34
+Kenny Smith,284844,5203.4
+Linda Kift,302936,354.3
+Kim Bates,403934,1500.34
+Lisa Jade,200304,100.34
+
